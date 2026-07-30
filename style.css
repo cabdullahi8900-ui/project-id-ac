@@ -558,6 +558,7 @@ footer h2{
 
     nav ul li{
         margin:10px 0;
+        display: none;
     }
 
 
